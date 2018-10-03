@@ -8,3 +8,5 @@
 *.txt text working-tree-encoding=Windows-1251 eol=crlf
 *.PAS text working-tree-encoding=Windows-1251 eol=crlf
 *.DPR text working-tree-encoding=Windows-1251 eol=crlf
+*.dof text working-tree-encoding=Windows-1251 eol=crlf
+*.DOF text working-tree-encoding=Windows-1251 eol=crlf
