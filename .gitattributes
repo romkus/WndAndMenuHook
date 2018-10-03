@@ -6,4 +6,5 @@
 *.pas text working-tree-encoding=Windows-1251 eol=crlf
 *.dfm text working-tree-encoding=Windows-1251 eol=crlf
 *.txt text working-tree-encoding=Windows-1251 eol=crlf
-
+*.PAS text working-tree-encoding=Windows-1251 eol=crlf
+*.DPR text working-tree-encoding=Windows-1251 eol=crlf
